@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(to bottom, #f5f7fa, #d3eaf8);
+    color: #333333;
+    font-family: Arial, sans-serif;
+}
+
+.resume-container {
+    border: 3px solid #1e90ff;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 20px auto;
+    background: #ffffff;
+    border-radius: 10px;
+}
